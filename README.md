@@ -5,7 +5,7 @@ Using a simple HTML + CSS + JavaScript stack and following Radu’s course on ne
 
 ---
 
-🎬 Demo Video  
+🎬 Demo Video of the Best neural network that completes the task. 
 [Watch on YouTube Shorts](https://www.youtube.com/shorts/6R82q1w5nQE)
 
 ---
